@@ -1,0 +1,18 @@
+{
+    "name": "vkolesnev/mindboxv3xml",
+    "description": "v3 xml for mindbox sdk",
+    "type": "library",
+    "require": {
+        "psr/log": "^1.1",
+        "ext-json": "^1.7",
+        "ext-SimpleXML": "^7.3",
+        "ext-libxml": "^7.3",
+        "ext-curl": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "VladimirSoya",
+            "email": "admin@admin.ru"
+        }
+    ]
+}
