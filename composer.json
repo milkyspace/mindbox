@@ -18,7 +18,7 @@
         "ext-curl": "*"
     },
     "autoload": {
-        "psr-4": {"Mindbox\\": "src/"}
+        "psr-4": {"Mindbox\\": "sdk/"}
     },
     "autoload-dev": {
         "psr-4": {"Mindbox\\Tests\\": "tests/"}
