@@ -2,7 +2,7 @@
 Mindbox sdk module for work with Mindbox on xml apiV3
 
 
-#composer
+# composer
 composer require vkolesnev/mindboxv3xml
 
 or
