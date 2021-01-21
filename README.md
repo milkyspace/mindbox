@@ -1,2 +1,2 @@
 # mindbox
-MindBox sdk module for work with MindBox on xml apiV3
+Mindbox sdk module for work with Mindbox on xml apiV3
